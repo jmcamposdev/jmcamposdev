@@ -24,3 +24,14 @@
 <img align="left" alt="Github Desktop" width="26px" src="https://dl2.macupdate.com/images/icons256/39062.png?d=1522354604" />
 <img align="left" alt="Numpy" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/1024px-NumPy_logo_2020.svg.png" />
 <img align="left" alt="Keras" width="26px" src="https://s3.amazonaws.com/keras.io/img/keras-logo-2018-large-1200.png" />
+<br></br>
+<br></br>
+<br></br>
+
+
+ <div align="center">
+<a href="http://www.github.com/jmcamposdev"><img width="60%" src="https://github-readme-stats.vercel.app/api?username=jmcamposdev&hide=&count_private=true&bg_color=0D1117&theme=react&hide_border=true&show_icons=true" alt="Jmcamposdev GitHub stats"/></a>
+<a href="http://www.github.com/jmcamposdev"><img alt="TYP Top Language" width="38.25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmcamposdev&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></a>
+  
+<a href="http://www.github.com/jmcamposdev"/><img alt="TYP Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jmcamposdev&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width = "100%"/></a>
+</div>
