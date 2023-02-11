@@ -1,19 +1,14 @@
-### Hi there 👋
-
-
 <img align="left" alt="Brain" width="300" src="http://gifimage.net/wp-content/uploads/2017/10/cerebro-gif-tumblr-3.gif">
 
 
   <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="20%">
 
-- 📚 I'm a sophomore studying Psychology, Computer Science and Mathematics at the University of Toronto 
-- 🧠 Currently learning about computational neuroscience and artificial intelligence
-- 👩‍💻 Lead as the Director Of Event Operations (Computational Sciences Division) in the Women in Science and Computing Club
-- 🧪 In search of neuroscience and decision intelligence research opportunities
-
+- 📚 I am a First Year student in a Higher Degree Developing web applications currently in Granada
+- 🧠 Currently learning Java, React and Web Design
+- 🧪 Looking for opportunities as a Frontend Developer or Java Programmer
+- ⭐ 2023's Objective: Contribute more on Github and Good Personal Projects
 
 <br />
-
 
 ### Languages and Tools:
 
