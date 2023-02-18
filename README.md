@@ -6,7 +6,7 @@
 - 📚 I am a First Year student in a Higher Degree Developing web applications currently in Granada
 - 🧠 Currently learning Java, React and Web Design
 - 🧪 Looking for opportunities as a Frontend Developer or Java Programmer
-- ⭐ 2023's Objective: Contribute more on Github and Good Personal Projects
+- ⭐ 2023's Objective: Contribute more on Github and keep creating Personal Projects
 
 <br />
 
