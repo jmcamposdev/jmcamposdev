@@ -23,6 +23,9 @@
 <br></br>
 ### Frameworks:
 <img align="left" alt="React" width="40px" src="https://img.icons8.com/color/512/react-native.png" />
+<img align="left" alt="Bootstrap" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" />
+
+
 
 <br></br>
 ### Tools:
