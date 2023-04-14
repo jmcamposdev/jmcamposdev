@@ -42,8 +42,3 @@
 ### CMS:
 <img align="left" alt="Wordpress" width="40px" src="https://img.icons8.com/color/512/wordpress.png" />
 <img align="left" alt="Joomla" width="40px" src="https://img.icons8.com/color/512/joomla.png" />
-
-
-<br></br>
-<br></br>
-<br></br>
