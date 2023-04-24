@@ -42,3 +42,14 @@
 ### CMS:
 <img align="left" alt="Wordpress" width="40px" src="https://img.icons8.com/color/512/wordpress.png" />
 <img align="left" alt="Joomla" width="40px" src="https://img.icons8.com/color/512/joomla.png" />
+
+<br>
+<br><br>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=jmcamposdev&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=1000&background=0D111700&ring=421F81&fire=421F81&currStreakLabel=421F81)](https://git.io/streak-stats)
+
+
+
+
+
+
