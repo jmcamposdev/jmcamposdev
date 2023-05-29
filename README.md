@@ -46,8 +46,7 @@
 <br>
 <br><br>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=jmcamposdev&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=1000&background=0D111700&ring=421F81&fire=421F81&currStreakLabel=421F81)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=jmcamposdev&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=1000&type=png&background=5DEB5200&ring=421F81&fire=421F81&currStreakLabel=421F81)](https://git.io/streak-stats)
 
 
 
