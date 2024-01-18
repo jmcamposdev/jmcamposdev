@@ -25,6 +25,7 @@
 ### Frameworks:
 <img align="left" alt="React" width="40px" src="https://img.icons8.com/color/512/react-native.png" />
 <img align="left" alt="Bootstrap" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" />
+<img align="left" alt="Bootstrap" width="40px" src="https://static-00.iconduck.com/assets.00/laravel-icon-497x512-uwybstke.png" />
 
 
 
