@@ -17,15 +17,22 @@
 <img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="40px" src="https://img.icons8.com/color/512/javascript.png" />
 <img align="left" alt="SASS" width="40px" src="https://img.icons8.com/color/512/sass.png" />
-<img align="left" alt="Java" width="40px" src="https://camo.githubusercontent.com/20ffa1c9a31e2c991c8b52b0cb7be938de51db4b7a9299658fef28efb0cc845a/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176612f6a6176612d6f726967696e616c2e737667" />
+<img align="left" alt="Java" width="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png" />
+<img align="left" alt="Java" width="40px" src="https://img.icons8.com/?size=256&id=13679&format=png" />
+
+
+<br></br>
+### Databases:
 <img align="left" alt="MySQL" width="40px" src="https://img.icons8.com/color/512/mysql-logo.png" />
-<img align="left" alt="Postgres" width="40px" src="https://img.icons8.com/color/512/postgreesql.png" />
+<img align="left" alt="Postgress" width="40px" src="https://img.icons8.com/color/512/postgreesql.png" />
+<img align="left" alt="MongoDB" width="40px" src="https://cdn.iconscout.com/icon/free/png-256/free-mongodb-5-1175140.png" />
+
 
 <br></br>
 ### Frameworks:
 <img align="left" alt="React" width="40px" src="https://img.icons8.com/color/512/react-native.png" />
+<img align="left" alt="Laravel" width="40px" src="https://static-00.iconduck.com/assets.00/laravel-icon-497x512-uwybstke.png" />
 <img align="left" alt="Bootstrap" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" />
-<img align="left" alt="Bootstrap" width="40px" src="https://static-00.iconduck.com/assets.00/laravel-icon-497x512-uwybstke.png" />
 
 
 
