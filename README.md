@@ -4,8 +4,8 @@
   <img src="./output-onlinegiftools.gif" width="20%">
 
 - 📚 I am a Second Year student in a Higher Degree Developing web applications currently in Granada
-- 🧠 Currently learning JavaScript, JQuery, PHP with Laravel and Web Design
-- 🧪 Looking for opportunities as a Frontend Developer or Java Programmer
+- 🧠 Currently learning JavaScript, JQuery, React, PHP with Laravel, NodeJS with ExpressJS and JWT and Web Design
+- 🧪 Looking for Frontend Developer opportunities focusing on React Application development.
 - ⭐ 2024's Objective: Contribute more on Github and keep creating Personal Projects
 
 <br />
