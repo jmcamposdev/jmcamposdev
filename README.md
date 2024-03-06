@@ -1,7 +1,4 @@
-<img align="left" alt="Brain" width="300" src="http://gifimage.net/wp-content/uploads/2017/10/cerebro-gif-tumblr-3.gif">
-
-
-  <img src="./output-onlinegiftools.gif" width="20%">
+<img src="./output-onlinegiftools.gif" width="20%">
 
 - 📚 I am a Second Year student in a Higher Degree Developing web applications currently in Granada
 - 🧠 Currently focusing on React, Node with ExpressJS, JWT and API Rest
